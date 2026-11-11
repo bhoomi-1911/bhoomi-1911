@@ -6,7 +6,7 @@
 
 Building practical applications and exploring intelligent systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bhoomi-h-s-b31172332/))
 [![Email](https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.s.bhoomi@gmail.com)
 
 </div>
@@ -84,7 +84,7 @@ Additional tools and frameworks: **LangChain · Gemini · FAISS · Streamlit · 
 
 I'm always interested in learning, collaborating, and building useful things.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bhoomi-h-s-b31172332/))
 [![GitHub](https://img.shields.io/badge/GitHub-242038?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhoomi-1911)
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.s.bhoomi@gmail.com)
 
