@@ -1,0 +1,27 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171329"/>
+      <stop offset="0.55" stop-color="#302052"/>
+      <stop offset="1" stop-color="#171329"/>
+    </linearGradient>
+    <linearGradient id="line" x1="100" y1="0" x2="1100" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4A7FF" stop-opacity="0.05"/>
+      <stop offset="0.5" stop-color="#C4A7FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1000" cy="72" r="115" fill="#8B5CF6" fill-opacity="0.12"/>
+  <circle cx="1080" cy="250" r="170" fill="#A78BFA" fill-opacity="0.08"/>
+  <path d="M0 250C210 160 330 350 560 235C760 135 880 90 1200 180" stroke="url(#line)" stroke-width="2"/>
+  <path d="M0 275C210 185 330 375 560 260C760 160 880 115 1200 205" stroke="url(#line)" stroke-opacity="0.45"/>
+  <g fill="#D8C7FF" fill-opacity="0.75">
+    <circle cx="110" cy="70" r="2"/><circle cx="185" cy="225" r="2"/><circle cx="330" cy="58" r="2"/>
+    <circle cx="720" cy="72" r="2"/><circle cx="850" cy="245" r="2"/><circle cx="1085" cy="115" r="2"/>
+    <circle cx="1140" cy="55" r="2"/><circle cx="625" cy="285" r="2"/>
+  </g>
+  <text x="600" y="132" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="5">BHOOMI H S</text>
+  <text x="600" y="181" text-anchor="middle" fill="#D9C7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" letter-spacing="2">SOFTWARE ENGINEERING  •  AI / ML</text>
+  <text x="600" y="224" text-anchor="middle" fill="#C7B9DF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Building useful software. Exploring intelligent systems.</text>
+</svg>
